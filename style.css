@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    padding: 10px ;
+    background-color: black;
+    color: white;
+}
+#navbar{
+   align-items: center;
+   display: inline-block;
+   justify-content: space-around;
+}
+#nl{
+    margin-left: 30%;
+}
+#nl>a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+padding: 10px;
+}
+.social{
+flex: 5;
+width: 3%;
+
+}
+#social3{
+  
+    position:absolute;
+    right: 10px ;
+    }
+    #social2{
+       
+        position:absolute;
+        right: 15px ;
+        }
+        #social3{
+           
+            position:absolute;
+            right: 20px ;
+            }
